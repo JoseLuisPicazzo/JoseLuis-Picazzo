@@ -1,0 +1,15 @@
+.columna
+{
+    padding: 3%;
+}
+.columna2
+{
+    padding: 3%;
+    background-color: black;
+}
+.columna2 h3 {
+    color: white;
+}
+.columna2 p {
+    color: white;
+}

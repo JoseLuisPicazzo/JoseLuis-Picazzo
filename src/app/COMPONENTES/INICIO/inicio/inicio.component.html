@@ -1,0 +1,19 @@
+<table class="table">
+    <thead>
+      <tr>
+        <th scope="col">#</th>
+        <th scope="col">First</th>
+        <th scope="col">Last</th>
+        <th scope="col">Handle</th>
+      </tr>
+    </thead>
+    <tbody class="table-group-divider" *ngFor="let item of products">
+      <tr>
+        <th scope="row">{{item.Productos}}</th>
+        <td>{{item.Descripcion}}</td>
+        <td>{{item.Monto}}</td>
+        <td>@mdo</td>
+      </tr>
+
+    </tbody>
+  </table>

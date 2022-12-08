@@ -1,0 +1,103 @@
+[
+      {
+        "modelo": "Celular Samsung S9",
+        "caracteristicas": "Pantalla de 5.8 Pulgadas",
+        "precio": 3500
+      },
+      {
+        "modelo": "Celular Samsung S9+",
+        "caracteristicas": "Pantalla de 6.2 Pulgadas",
+        "precio": 4000
+      },
+      {
+        "modelo": "Celular Samsung S10",
+        "caracteristicas": "Pantalla de 6.1 Pulgadas",
+        "precio": 4300
+      },
+      {
+        "modelo": "Celular Samsung S10+",
+        "caracteristicas": "Pantalla de 6.4 Pulgadas",
+        "precio": 4700
+      },
+      {
+        "modelo": "Celular Samsung S20",
+        "caracteristicas": "Pantalla de 6.2 Pulgadas",
+        "precio": 7500
+      },
+      {
+        "modelo": "Celular Samsung S20 FE",
+        "caracteristicas": "Pantalla de 6.4 Pulgadas",
+        "precio": 8000
+      },
+      {
+        "modelo": "Celular Samsung S20 PLUS",
+        "caracteristicas": "Pantalla de 6.7 Pulgadas",
+        "precio": 8500
+      },
+      {
+        "modelo": "Celular Samsung S20 Ultra",
+        "caracteristicas": "Pantalla de 6.7 Pulgadas",
+        "precio": 10000
+      },
+      {
+        "modelo": "Celular Samsung Note 10",
+        "caracteristicas": "Pantalla de 6.4 Pulgadas",
+        "precio": 7000
+      },
+      {
+        "modelo": "Celular Samsung Note 20",
+        "caracteristicas": "Pantalla de 6.7 Pulgadas",
+        "precio": 13000
+      },
+      {
+        "modelo": "Laptop Samsung ",
+        "caracteristicas": "Procesador Core i7",
+        "precio": 6000
+      },
+      {
+        "modelo": "Laptop HP",
+        "caracteristicas": "Procesador Core i7",
+        "precio": 9000
+      },
+      {
+        "modelo": "Laptop Lenovo",
+        "caracteristicas": "Procesador Core i7",
+        "precio": 5500
+      },
+      {
+        "modelo": "Laptop Dell",
+        "caracteristicas": "Procesador Core i7",
+        "precio": 6900
+      },
+      {
+        "modelo": "Laptop Asus",
+        "caracteristicas": "Procesador Core i7",
+        "precio": 2000
+      },
+      {
+        "modelo": "Laptop Acer",
+        "caracteristicas": "Procesador Core i7",
+        "precio": 4000
+      },
+      {
+        "modelo": "Laptop Alienware",
+        "caracteristicas": "Procesador Core i7",
+        "precio": 22000
+      },
+      {
+        "modelo": "Macbook 2015",
+        "caracteristicas": "Apple A12",
+        "precio": 7500
+      },
+      {
+        "modelo": "Macbook 2017",
+        "caracteristicas": "Apple A12",
+        "precio": 9800
+      },
+      {
+        "modelo": "Iphone 13 Pro",
+        "caracteristicas": "Pantalla de 6.8 Pulgadas",
+        "precio": 12800
+      }
+    ]
+  

@@ -1,0 +1,19 @@
+<table class="table">
+    <thead>
+      <tr>
+        <th scope="col">modelo</th>
+        <th scope="col">caracteristicas</th>
+        <th scope="col">precio</th>
+        <th scope="col">.</th>
+      </tr>
+    </thead>
+    <tbody *ngFor = 'let item of productoList'>
+      <tr>
+        <th scope="row">{{item.Productos}}</th>
+        <td>{{item.Descripcion}}</td>
+        <td>{{item.Monto}}</td>
+        <button (click)="agregar()"></button>
+      </tr>
+    </tbody>
+  </table>
+
